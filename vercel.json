@@ -1,0 +1,8 @@
+{
+  "buildCommand": "cd valentines-for-khushi && npm install && npm run build",
+  "outputDirectory": "valentines-for-khushi/dist",
+  "framework": null,
+  "rewrites": [
+    { "source": "/(.*)", "destination": "/" }
+  ]
+}
